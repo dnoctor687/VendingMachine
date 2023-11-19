@@ -9,6 +9,8 @@ public class MainSystem {
 	static Scanner scan = new Scanner (System.in);
 
 	// Initialise all needed variables
+	
+	//Initial Commit
 
 	static int balance =0;
 
