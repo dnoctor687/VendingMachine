@@ -1,4 +1,4 @@
-package courseworkRef;
+package vendingSystem;
 
 public class EngineerLogin extends MainSystem {
 	
